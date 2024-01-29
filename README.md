@@ -8,3 +8,16 @@ Since I was new to React, I was trying to understand React from the mentioned tu
 
 So I Google'd and then came across this W3school tutorial.
 https://www.w3schools.com/react/react_getstarted.asp
+
+Ok! Let's start with all the steps I went though.
+
+'''
+mkdir xo
+cd xo
+'''
+
+Within my IDE temnical console (I used VScode for this project) I made directory as above, get to the directory then create React template with
+
+'''
+npx create-react-app xoapp
+'''
